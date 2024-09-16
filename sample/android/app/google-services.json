@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126080336550",
+    "project_id": "warleystore-5a182",
+    "storage_bucket": "warleystore-5a182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126080336550:android:8375e841916956838faa67",
+        "android_client_info": {
+          "package_name": "com.Warley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126080336550-13ho7pfv0qeou56i2eru5i3e70ak2s92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Warley",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "126080336550-6uv9h699mukq0qsna2rnup0dbni0vc2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Warley",
+            "certificate_hash": "f0362a86903756deb0f2b80953bcae4b1e4ec3d9"
+          }
+        },
+        {
+          "client_id": "126080336550-mddilvm07fdor2skdvk8q6igfre32sm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1KkUGC4egakjRcqDtaetUOcfD5hlbMhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126080336550-mddilvm07fdor2skdvk8q6igfre32sm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
