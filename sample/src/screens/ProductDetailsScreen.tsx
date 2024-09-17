@@ -277,8 +277,10 @@ function ProductDetails({
   const generateLink = async (id: string) => {
     try {
       const link = await dynamicLinks().buildShortLink({
-        link: `https://appcatify.page.link/ezHe?productId=${id}`,
-        domainUriPrefix: 'https://appcatify.page.link',
+        // link: `https://appcatify.page.link/ezHe?productId=${id}`,
+        // domainUriPrefix: 'https://appcatify.page.link',
+        link: `https://warley.page.link/XktS?productId=${id}`,
+        domainUriPrefix: 'https://warley.page.link',
         android: {
           packageName: 'com.Warley',
         },
